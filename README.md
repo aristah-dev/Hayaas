@@ -1,2 +1,2 @@
 # Hayaas
-Car Renting/ Hiring Mobile Android App
+Car Renting/ Hiring Mobile Android Application
